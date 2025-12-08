@@ -25,6 +25,7 @@ pip install shapely
 pip install pandas
 pip install numpy
 pip install imageio
+pip install pandas
 ```
 
 
